@@ -1,0 +1,19 @@
+C:\Users\yekta\OneDrive\Masaüstü\212106053_Yekta_Alpagan_İO\212106053_Yekta_Alpagan_İO\bin\Debug\212106053_Yekta_Alpagan_İO.exe.config
+C:\Users\yekta\OneDrive\Masaüstü\212106053_Yekta_Alpagan_İO\212106053_Yekta_Alpagan_İO\bin\Debug\212106053_Yekta_Alpagan_İO.exe
+C:\Users\yekta\OneDrive\Masaüstü\212106053_Yekta_Alpagan_İO\212106053_Yekta_Alpagan_İO\bin\Debug\212106053_Yekta_Alpagan_İO.pdb
+C:\Users\yekta\OneDrive\Masaüstü\212106053_Yekta_Alpagan_İO\212106053_Yekta_Alpagan_İO\obj\Debug\Görsel programlama Proje.csproj.AssemblyReference.cache
+C:\Users\yekta\OneDrive\Masaüstü\212106053_Yekta_Alpagan_İO\212106053_Yekta_Alpagan_İO\obj\Debug\Görsel programlama Proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\yekta\OneDrive\Masaüstü\212106053_Yekta_Alpagan_İO\212106053_Yekta_Alpagan_İO\obj\Debug\_212106053_Yekta_Alpagan_İO.AnaForm.resources
+C:\Users\yekta\OneDrive\Masaüstü\212106053_Yekta_Alpagan_İO\212106053_Yekta_Alpagan_İO\obj\Debug\_212106053_Yekta_Alpagan_İO.NotDefteri.resources
+C:\Users\yekta\OneDrive\Masaüstü\212106053_Yekta_Alpagan_İO\212106053_Yekta_Alpagan_İO\obj\Debug\_212106053_Yekta_Alpagan_İO.Poker.resources
+C:\Users\yekta\OneDrive\Masaüstü\212106053_Yekta_Alpagan_İO\212106053_Yekta_Alpagan_İO\obj\Debug\_212106053_Yekta_Alpagan_İO.Asker.resources
+C:\Users\yekta\OneDrive\Masaüstü\212106053_Yekta_Alpagan_İO\212106053_Yekta_Alpagan_İO\obj\Debug\_212106053_Yekta_Alpagan_İO.Bilgisayar_Kapatıcı.resources
+C:\Users\yekta\OneDrive\Masaüstü\212106053_Yekta_Alpagan_İO\212106053_Yekta_Alpagan_İO\obj\Debug\_212106053_Yekta_Alpagan_İO.Buyuk_unlu_uyumu.resources
+C:\Users\yekta\OneDrive\Masaüstü\212106053_Yekta_Alpagan_İO\212106053_Yekta_Alpagan_İO\obj\Debug\_212106053_Yekta_Alpagan_İO.Form4.resources
+C:\Users\yekta\OneDrive\Masaüstü\212106053_Yekta_Alpagan_İO\212106053_Yekta_Alpagan_İO\obj\Debug\_212106053_Yekta_Alpagan_İO.Slot.resources
+C:\Users\yekta\OneDrive\Masaüstü\212106053_Yekta_Alpagan_İO\212106053_Yekta_Alpagan_İO\obj\Debug\_212106053_Yekta_Alpagan_İO.Hesap_mak.resources
+C:\Users\yekta\OneDrive\Masaüstü\212106053_Yekta_Alpagan_İO\212106053_Yekta_Alpagan_İO\obj\Debug\_212106053_Yekta_Alpagan_İO.Properties.Resources.resources
+C:\Users\yekta\OneDrive\Masaüstü\212106053_Yekta_Alpagan_İO\212106053_Yekta_Alpagan_İO\obj\Debug\Görsel programlama Proje.csproj.GenerateResource.cache
+C:\Users\yekta\OneDrive\Masaüstü\212106053_Yekta_Alpagan_İO\212106053_Yekta_Alpagan_İO\obj\Debug\Görsel programlama Proje.csproj.CoreCompileInputs.cache
+C:\Users\yekta\OneDrive\Masaüstü\212106053_Yekta_Alpagan_İO\212106053_Yekta_Alpagan_İO\obj\Debug\212106053_Yekta_Alpagan_İO.exe
+C:\Users\yekta\OneDrive\Masaüstü\212106053_Yekta_Alpagan_İO\212106053_Yekta_Alpagan_İO\obj\Debug\212106053_Yekta_Alpagan_İO.pdb
